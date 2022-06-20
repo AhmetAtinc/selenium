@@ -16,7 +16,6 @@ public class C01_IlkClass {
 
         Thread.sleep(3000);
 
-
         driver.close();
         // driver'i kapatir
     }
